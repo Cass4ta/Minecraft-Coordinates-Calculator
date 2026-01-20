@@ -1,10 +1,3 @@
-# Minecraft Coordinates Calculator 
-
-![Minecraft Theme](https://img.shields.io/badge/Theme-Minecraft%20Pixel%20Art-green)
-![React](https://img.shields.io/badge/React-18-blue)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38b2ac)
-![Vite](https://img.shields.io/badge/Vite-Fast-yellow)
-
 A highly immersive, pixel-perfect web application designed for Minecraft players to instantly convert coordinates between the **Overworld** and the **Nether**. Built with a focus on authentic aesthetics and seamless user experience.
 
 ## Features
